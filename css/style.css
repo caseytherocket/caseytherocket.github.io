@@ -218,7 +218,7 @@ img { max-width: 100%; }
 .reduceimage {
   height: auto;
   max-width: 220px;
-  min-width: 10px;
+  min-width: 160px;
 
 }
 
@@ -256,6 +256,11 @@ img { max-width: 100%; }
   font-weight: bold;
   font-size: 22px;
 }
+
+.bottompadding {
+  padding-bottom: 20px;
+}
+
 
 /*----------------------------------------- 4) Header --------------------------------------------------*/
 .header {
@@ -1232,6 +1237,17 @@ ul.portfolio-image li .desc{
   display: table;
 }
 
+.footer-bottom p {
+  text-align: center;
+   letter-spacing: 0.8px;
+  font-family: 'Roboto Slab', serif;
+  color: #f6f6f6;
+  font-size: 16px;
+
+
+
+}
+
 .socials{
   width: 100%;
   margin: 0;
@@ -1320,7 +1336,7 @@ ul.portfolio-image li .desc{
 .footer-bottom{
   width: 100%;
   background: #2f2f2f;
-  padding: 50px 0;
+  padding: 40px 0;
   color: #636363;
 }
 
