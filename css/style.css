@@ -1121,7 +1121,7 @@ ul.portfolio-image li .desc{
 }
 .wrap-tripper .w-content{
   position: absolute;
-  left: 55%;
+  left: 52%;
   top: 60%;
   transform: translateX(-50%) translateY(-50%);
   -webkit-transform: translateX(-50%) translateY(-50%);
@@ -1159,6 +1159,7 @@ ul.portfolio-image li .desc{
   color: #B8E986;
   border-color: #B8E986;
   border-width: 3px;
+  max-width: 300px;
 }
 
 #downloadbutton:hover {
