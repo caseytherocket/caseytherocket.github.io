@@ -1121,7 +1121,7 @@ ul.portfolio-image li .desc{
 }
 .wrap-tripper .w-content{
   position: absolute;
-  left: 55%;
+  left: 50%;
   top: 60%;
   transform: translateX(-50%) translateY(-50%);
   -webkit-transform: translateX(-50%) translateY(-50%);
